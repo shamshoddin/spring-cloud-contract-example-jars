@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 01 20:02:27 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1614609147965
+https\://repo.spring.io/milestone/.error=Could not transfer artifact org.infinispan\:infinispan-build-configuration-parent\:pom\:11.0.8.Final from/to spring-milestones (https\://repo.spring.io/milestone)\: Transfer failed for https\://repo.spring.io/milestone/org/infinispan/infinispan-build-configuration-parent/11.0.8.Final/infinispan-build-configuration-parent-11.0.8.Final.pom
+@default-spring-milestones-https\://repo.spring.io/milestone/.lastUpdated=1614609147848
+@default-spring-releases-https\://repo.spring.io/release/.lastUpdated=1614609147909
+https\://repo.spring.io/release/.error=Could not transfer artifact org.infinispan\:infinispan-build-configuration-parent\:pom\:11.0.8.Final from/to spring-releases (https\://repo.spring.io/release)\: Transfer failed for https\://repo.spring.io/release/org/infinispan/infinispan-build-configuration-parent/11.0.8.Final/infinispan-build-configuration-parent-11.0.8.Final.pom

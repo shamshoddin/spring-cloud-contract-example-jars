@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 01 20:02:41 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1614609161291
+https\://repo.spring.io/milestone/.error=Could not transfer artifact io.projectreactor\:reactor-bom\:pom\:Dysprosium-SR5 from/to spring-milestones (https\://repo.spring.io/milestone)\: Transfer failed for https\://repo.spring.io/milestone/io/projectreactor/reactor-bom/Dysprosium-SR5/reactor-bom-Dysprosium-SR5.pom
+@default-spring-milestones-https\://repo.spring.io/milestone/.lastUpdated=1614609161192
+@default-spring-releases-https\://repo.spring.io/release/.lastUpdated=1614609161240
+https\://repo.spring.io/release/.error=Could not transfer artifact io.projectreactor\:reactor-bom\:pom\:Dysprosium-SR5 from/to spring-releases (https\://repo.spring.io/release)\: Transfer failed for https\://repo.spring.io/release/io/projectreactor/reactor-bom/Dysprosium-SR5/reactor-bom-Dysprosium-SR5.pom

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 01 20:02:41 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1614609161968
+https\://repo.spring.io/milestone/.error=Could not transfer artifact org.glassfish.jersey\:jersey-bom\:pom\:2.29.1 from/to spring-milestones (https\://repo.spring.io/milestone)\: Transfer failed for https\://repo.spring.io/milestone/org/glassfish/jersey/jersey-bom/2.29.1/jersey-bom-2.29.1.pom
+@default-spring-milestones-https\://repo.spring.io/milestone/.lastUpdated=1614609161856
+@default-spring-releases-https\://repo.spring.io/release/.lastUpdated=1614609161910
+https\://repo.spring.io/release/.error=Could not transfer artifact org.glassfish.jersey\:jersey-bom\:pom\:2.29.1 from/to spring-releases (https\://repo.spring.io/release)\: Transfer failed for https\://repo.spring.io/release/org/glassfish/jersey/jersey-bom/2.29.1/jersey-bom-2.29.1.pom

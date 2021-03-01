@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 01 20:02:29 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1614609149813
+https\://repo.spring.io/milestone/.error=Could not transfer artifact io.micrometer\:micrometer-bom\:pom\:1.6.3 from/to spring-milestones (https\://repo.spring.io/milestone)\: Transfer failed for https\://repo.spring.io/milestone/io/micrometer/micrometer-bom/1.6.3/micrometer-bom-1.6.3.pom
+@default-spring-milestones-https\://repo.spring.io/milestone/.lastUpdated=1614609149621
+@default-spring-releases-https\://repo.spring.io/release/.lastUpdated=1614609149679
+https\://repo.spring.io/release/.error=Could not transfer artifact io.micrometer\:micrometer-bom\:pom\:1.6.3 from/to spring-releases (https\://repo.spring.io/release)\: Transfer failed for https\://repo.spring.io/release/io/micrometer/micrometer-bom/1.6.3/micrometer-bom-1.6.3.pom

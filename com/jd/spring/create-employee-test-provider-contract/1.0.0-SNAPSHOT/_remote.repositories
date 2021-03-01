@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 02 01:10:06 IST 2021
+create-employee-test-provider-contract-1.0.0-SNAPSHOT.jar>=
+create-employee-test-provider-contract-1.0.0-SNAPSHOT.pom>=
+create-employee-test-provider-contract-1.0.0-SNAPSHOT-stubs.jar>=

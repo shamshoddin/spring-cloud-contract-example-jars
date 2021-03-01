@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 01 20:02:28 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1614609148799
+https\://repo.spring.io/milestone/.error=Could not transfer artifact org.eclipse.ee4j\:project\:pom\:1.0.6 from/to spring-milestones (https\://repo.spring.io/milestone)\: Transfer failed for https\://repo.spring.io/milestone/org/eclipse/ee4j/project/1.0.6/project-1.0.6.pom
+@default-spring-milestones-https\://repo.spring.io/milestone/.lastUpdated=1614609148599
+@default-spring-releases-https\://repo.spring.io/release/.lastUpdated=1614609148749
+https\://repo.spring.io/release/.error=Could not transfer artifact org.eclipse.ee4j\:project\:pom\:1.0.6 from/to spring-releases (https\://repo.spring.io/release)\: Transfer failed for https\://repo.spring.io/release/org/eclipse/ee4j/project/1.0.6/project-1.0.6.pom
